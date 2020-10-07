@@ -1,0 +1,1 @@
+main = interact (\str -> if length [w| w <- str, w=='W'] == length [b| b <- str, b=='B'] then "1" else "0")

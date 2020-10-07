@@ -1,0 +1,1 @@
+dice n s k = 
